@@ -5,20 +5,21 @@
 |Name and Link     |   Latest Version   |
 |:-----------------|:-------------------|
 |**<font color=#FF0000>Bus Specification</font>**|----------------------------------|
-|[AGP Specification](http://www.playtool.com/pages/agpcompat/agp30.pdf)|3.0|
-|[AGP Pro Specification](https://web.archive.org/web/20021003222339/http://www.agpforum.org/downloads/apro_r11a.pdf)|1.1a|
-|AC97||
-|Access||
-|[Serial ATA AHCI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/serial-ata-ahci-spec-rev1-3-1.pdf)|1.3.1|
-|[ATA/ATAPI Specification](http://www.t13.org/documents/UploadedDocuments/docs2016/di529r14-ATAATAPI_Command_Set_-_4.pdf)|ACS-4 Rev.14|
+|[1394](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/ohci_11.pdf)|[OHCI v1.1](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/ohci_11.pdf)|
+|[AGP Specification](http://www.playtool.com/pages/agpcompat/agp30.pdf)|[1.0](http://www.playtool.com/pages/agpcompat/agp10.pdf)<br>[3.0](http://www.playtool.com/pages/agpcompat/agp30.pdf)|
+|[AGP Pro Specification](https://web.archive.org/web/20021003222339/http://www.agpforum.org/downloads/apro_r11a.pdf)|[1.1a](https://web.archive.org/web/20021003222339/http://www.agpforum.org/downloads/apro_r11a.pdf)|
+|AC97 Specification|[ICH7 AC97 Programmers Manual](https://www.intel.com/content/dam/doc/manual/io-controller-hub-7-hd-audio-ac97-manual.pdf)|
+|[Access Bus Specification](http://www.mcc-us.com/abspec30.zip)|[3.0](http://www.mcc-us.com/abspec30.zip)|
+|Serial ATA|[SATA rev3.5](https://sata-io.org/developers/purchase-specification)<br>[AHCI 1.3.1](https://www.intel.com.tw/content/dam/www/public/us/en/documents/technical-specifications/serial-ata-ahci-spec-rev1-3-1.pdf)<br>[AHCI 1.3](https://www.intel.com.tw/content/dam/www/public/us/en/documents/technical-specifications/serial-ata-ahci-spec-rev1_3.pdf)<br>Port Multiplier|
+|[ATA/ATAPI Specification](http://www.t13.org/documents/UploadedDocuments/docs2016/di529r14-ATAATAPI_Command_Set_-_4.pdf)|[ACS-4 Rev.14](http://www.t13.org/Documents/UploadedDocuments/docs2016/di529r14-ATAATAPI_Command_Set_-_4.pdf)<br>[ATA8 ACS](http://www.t13.org/documents/UploadedDocuments/docs2007/D1699r4a-ATA8-ACS.pdf)<br>[ATA8 ACS2](http://www.t13.org/Documents/UploadedDocuments/docs2009/d2015r2-ATAATAPI_Command_set_-_2_ACS-2.pdf)<br>[ATAPI for CDROM 8020i rev2.6](http://www.bswd.com/sff8020i.pdf)<br>ATA for Removable 8070i|
 |[Bluetooth](https://www.bluetooth.com/specifications/bluetooth-core-specification/)|5.2|
 |Bluetooth GATT Specification|[click](https://www.bluetooth.com/specifications/gatt/)|
 |Bluetooth Traditional Profile|[click](https://www.bluetooth.com/specifications/profiles-overview/)|
 |Bluetooth Protocol Specification|[click](https://www.bluetooth.com/specifications/protocol-specifications/)|
-|[HDAudio](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf)|1.0a|
-|[HDMI](https://www.hdmi.org/spec/hdmi2_1)|2.1|
-|[I2C](https://www.nxp.com/docs/en/user-guide/UM10204.pdf)|6.0|
-|I2S||
+|[HDAudio Specification](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf)|1.0a|
+|[HDMI Specification](https://www.hdmi.org/spec/hdmi2_1)|2.1|
+|[I2C Bus Specification](https://www.nxp.com/docs/en/user-guide/UM10204.pdf)|6.0|
+|I2S Specification||
 |[LPC Specification](https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf)|1.1|
 |MIPI Specification|[click](https://www.mipi.org/current-specifications)|
 |[NVMe](https://nvmexpress.org/developers/nvme-specification/)|1.4|
@@ -26,20 +27,19 @@
 |PCI Express Base Specification|[Rev 4.0, ver 1.0](https://members.pcisig.com/wg/PCI-SIG/document/10912?downloadRevision=active)<br>[Rev 4.0, Ver 0.3](http://composter.com.ua/documents/PCI_Express_Base_Specification_Revision_4.0.Ver.0.3.pdf)|
 |[PCI Local Bus Specification](https://www.xilinx.com/Attachment/PCI_SPEV_V3_0.pdf)|3.0|
 |[PCI Firmware Specification](https://members.pcisig.com/wg/PCI-SIG/document/download/8232)|3.2|
-|SCSI|[click](https://www.t10.org/scsi-3.htm)|
+|SCSI Specification|[click](https://www.t10.org/scsi-3.htm)|
 |[SDIO Simplified Specification](https://www.sdcard.org/downloads/pls/click.php?p=PartE1_SDIO_Simplified_Specification_Ver3.00.jpg&f=PartE1_SDIO_Simplified_Specification_Ver3.00.pdf&e=EN_SSE1)|3.0|
 |[SD Host Controller Specification](https://www.sdcard.org/downloads/pls/click.php?p=PartA2_SD%20Host_Controller_Simplified_Specification_Ver4.20.jpg&f=PartA2_SD%20Host_Controller_Simplified_Specification_Ver4.20.pdf&e=EN_SSA2)|4.2.0|
 |[iSDIO](https://www.sdcard.org/downloads/pls/click.php?p=PartE7_iSDIO_Simplified_Specification_Ver1.10.jpg&f=PartE7_iSDIO_Simplified_Specification_Ver1.10.pdf&e=EN_SSE7)|1.10|
+|[eMMC Specification](https://www.jedec.org/standards-documents/technology-focus-areas/flash-memory-ssds-ufs-emmc/e-mmc)|[5.1a](https://www.jedec.org/standards-documents/technology-focus-areas/flash-memory-ssds-ufs-emmc/e-mmc)|
 |[SMBus Specification](http://smbus.org/specs/SMBus_3_1_20180319.pdf)|3.1|
 |[SMBus BIOS Specification](http://smbus.org/specs/smbb10.pdf)|1.0|
-|SPI||
-|[eSPI](https://www.intel.com/content/dam/support/us/en/documents/software/chipset-software/327432-004_espi_base_specification_rev1.0_cb.pdf)|1.0|
-|UFS||
+|SPI Bus Specification||
+|[eSPI Bus Specification](https://www.intel.com/content/dam/support/us/en/documents/software/chipset-software/327432-004_espi_base_specification_rev1.0_cb.pdf)|1.0|
+|UFS Specification||
 |[USB Devices Specifications](http://www.usb.org/developers/docs/devclass_docs/)|Device Specific|
 |USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)<br>[4.x](https://usb.org/sites/default/files/USB4%20Specification_5.zip)|
-|UHCI||
-|OHCI||
-|[XHCI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|1.2|
+|USB Host Controller Specification|UHCI<br>[OHCI v1.0a](http://www.o3one.org/hwdocs/usb/hcir1_0a.pdf)<br>[EHCI v1.1](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/ehci-specification-for-usb.pdf)<br>[XHCI rev1.2](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|
 |WiFi Specification|[click](https://www.wi-fi.org/discover-wi-fi/specifications)|
 |**<font color=#FF0000>Industry Standard Specification</font>**|----------------------------------|
 |[UEFI Specification](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)|2.8 (Errata B)|
