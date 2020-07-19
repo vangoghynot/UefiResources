@@ -4,7 +4,7 @@
 
 |Name and Link     |   Latest Version   |
 |:-----------------|:-------------------|
-|**<font color=#FF0000>Bus Specification</font>**|----------------------------------|
+|---------- Bus Specification ----------|----------------------------------|
 |[1394](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/ohci_11.pdf)|[OHCI v1.1](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/ohci_11.pdf)|
 |[AGP Specification](http://www.playtool.com/pages/agpcompat/agp30.pdf)|[1.0](http://www.playtool.com/pages/agpcompat/agp10.pdf)<br>[3.0](http://www.playtool.com/pages/agpcompat/agp30.pdf)|
 |[AGP Pro Specification](https://web.archive.org/web/20021003222339/http://www.agpforum.org/downloads/apro_r11a.pdf)|[1.1a](https://web.archive.org/web/20021003222339/http://www.agpforum.org/downloads/apro_r11a.pdf)|
@@ -19,7 +19,7 @@
 |[HDAudio Specification](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf)|1.0a|
 |[HDMI Specification](https://www.hdmi.org/spec/hdmi2_1)|2.1|
 |[I2C Bus Specification](https://www.nxp.com/docs/en/user-guide/UM10204.pdf)|6.0|
-|I2S Specification||
+|[I2S Specification](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf)|[June 5, 1996](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf)|
 |[LPC Specification](https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf)|1.1|
 |MIPI Specification|[click](https://www.mipi.org/current-specifications)|
 |[NVMe](https://nvmexpress.org/developers/nvme-specification/)|1.4|
@@ -41,7 +41,7 @@
 |USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)<br>[4.x](https://usb.org/sites/default/files/USB4%20Specification_5.zip)|
 |USB Host Controller Specification|UHCI<br>[OHCI v1.0a](http://www.o3one.org/hwdocs/usb/hcir1_0a.pdf)<br>[EHCI v1.1](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/ehci-specification-for-usb.pdf)<br>[XHCI rev1.2](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|
 |WiFi Specification|[click](https://www.wi-fi.org/discover-wi-fi/specifications)|
-|**<font color=#FF0000>Industry Standard Specification</font>**|----------------------------------|
+|**<font color=#FF0000>---------- Industry Standard Specification ----------</font>**|----------------------------------|
 |[UEFI Specification](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)|2.8 (Errata B)|
 |[UEFI Shell Specification](http://www.uefi.org/sites/default/files/resources/UEFI_Shell_2_2.pdf)|2.2|
 |[UEFI Platform Initialization Specification](https://uefi.org/sites/default/files/resources/PI_Spec_1_7_A_final_May1.pdf)|1.7 (Errata A)|
