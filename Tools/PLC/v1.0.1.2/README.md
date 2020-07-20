@@ -3,16 +3,17 @@
 Unzip password is **_plc_**
 
 + Add Command Line option -noerrpause
-  "No Error Pause" option is added 
+  <br>"No Error Pause" option is added 
  
 + Add Serial Port ReadTimeOut/WriteTimeout Parameter
-  Add Serial Port ReadTimeOut/WriteTimeOut setting in Configuration
+  <br>Add Serial Port ReadTimeOut/WriteTimeOut setting in Configuration
+  <br>The default value for both are 50. If you experience the data lost issue, change them to 500~2000.
 
 + Uefi Variable Dump
-  Add Hex view title to link to the variable name
+  <br>Add Hex view title to link to the variable name
 
 + Acpi Table Dump
-  Add hex data dump
+  <br>Add hex data dump
 
 # Experimental Function 
 Type **'tonyacpi'** in command box to open the test function "ACPI Table dump"
