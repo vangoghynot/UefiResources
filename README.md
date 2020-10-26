@@ -41,26 +41,23 @@
 |[USB Bus Specifications](https://usb.org/sites/default/files/USB4%20Specification_5.zip)|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)<br>[4.x](https://usb.org/sites/default/files/USB4%20Specification_5.zip)|
 |USB Host Controller Specification|UHCI<br>[OHCI v1.0a](http://www.o3one.org/hwdocs/usb/hcir1_0a.pdf)<br>[EHCI v1.1](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/ehci-specification-for-usb.pdf)<br>[XHCI rev1.2](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|
 |WiFi Specification|[click](https://www.wi-fi.org/discover-wi-fi/specifications)|
-|**<font color=#FF0000>---------- Industry Standard Specification ----------</font>**|----------------------------------|
-|[UEFI Specification](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)|[2.8 (Errata B) Feb,2020](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)<br>[2.8 (Errara A) Mar, 2019](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_8_A_Feb14.pdf)<br>[2.7 (Errara B)](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202_7_B.pdf)<br>[2.7 (Errata A)](http://www.uefi.org/sites/default/files/resources/UEFI%20Spec%202_7_A%20Sept%206.pdf)<br>[2.7](http://www.uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf)|
+
+## Industry Standard Specifications
+|Name and Links |   Spec Versions   |
+|:-----------------|:-------------------|
+|[UEFI Specification](https://uefi.org/specifications)|[2.8 (Errata B) Feb,2020](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)<br>[2.8 (Errara A) Mar, 2019](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_8_A_Feb14.pdf)<br>[2.7 (Errara B)](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202_7_B.pdf)<br>[2.7 (Errata A)](http://www.uefi.org/sites/default/files/resources/UEFI%20Spec%202_7_A%20Sept%206.pdf)<br>[2.7](http://www.uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf)|
 |[UEFI Shell Specification](http://www.uefi.org/sites/default/files/resources/UEFI_Shell_2_2.pdf)|[2.2](http://www.uefi.org/sites/default/files/resources/UEFI_Shell_2_2.pdf)<br>[2.1](http://www.uefi.org/sites/default/files/resources/UEFI_Shell_Spec_2_1_July02release.pdf)|
 |[UEFI Platform Initialization Specification](https://uefi.org/sites/default/files/resources/PI_Spec_1_7_A_final_May1.pdf)|[1.7 (Errata A)](https://uefi.org/sites/default/files/resources/PI_Spec_1_7_A_final_May1.pdf)<br>[1.7](https://uefi.org/sites/default/files/resources/PI_Spec_1_7_final_Jan_2019.pdf)|
 |[UEFI Platform Initialization Distribution Packaging Specification](http://www.uefi.org/sites/default/files/resources/Dist_Package_Spec_1_1.pdf)|[1.1](http://www.uefi.org/sites/default/files/resources/Dist_Package_Spec_1_1.pdf)|
 |[EDK2 Specifications](https://github.com/tianocore-docs/Docs)|EDK2|
-|[ACPI Specification](https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf)|[6.3 Jan, 2019](https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf)<br>[6.2 (Errata B)](https://uefi.org/sites/default/files/resources/ACPI_6_2_B_final_Jan30.pdf)|
+|[ACPI Specification](https://uefi.org/specifications)|[6.3 Errata A Oct, 2020](https://uefi.org/sites/default/files/resources/ACPI_Spec_6_3_A_Oct_6_2020.pdf)<br>[6.3 Jan, 2019](https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf)<br>[6.2 (Errata B)](https://uefi.org/sites/default/files/resources/ACPI_6_2_B_final_Jan30.pdf)|
 |[ACPI Specification Changes for Legacy Free](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/LFreeACPI.doc)|September 20, 1999|
 |[APM Specification](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/APMV12.rtf)|1.2|
 |[ASF (Alert Standard Format) Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0136.pdf)|2.0|
-|[UDF Specification](http://www.osta.org/specs/pdf/udf260.pdf)|2.60|
-|ISO 9660|[1998(en)](https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:en)<br>[1988/Amd.1:2013(en)](https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:amd:1:v1:en)|
-|[Joliet Filesystem Specification](http://pismotec.com/cfs/jolspec.html)|Extensions for Unicode Version 1|
-|[El Torito Boot Specification](https://pdos.csail.mit.edu/6.828/2014/readings/boot-cdrom.pdf)|1.0|
 |[BBS Specification](http://www.scs.stanford.edu/05au-cs240c/lab/specsbbs101.pdf)|1.01|
 |[BIOS32 Specification](http://bos.asmhackers.net/docs/pci/docs/bios32.pdf)|0.4|
 |[BootSpecificationFile(BSF)Specification](https://firmware.intel.com/sites/default/files/BSF_1_0.pdf)|1.0|
 |[BIOS Enhanced Disk Drive Specification](http://t13.org/Documents/UploadedDocuments/project/d1386r0-EDD.pdf)|Version 3.0. Rev 0.9b|
-|[JEDEC Specifications](https://www.jedec.org/standards-documents)|Depends on device type|
-|[Microsoft EFI FAT32 File System Specification](https://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/fatgen103.doc)|1.03|
 |[Microsoft Debug Port Table 2 Specification](http://download.microsoft.com/download/9/4/5/945703CA-EF1F-496F-ADCF-3332CE5594FD/microsoft-debug-port-table-2-CP.docx)|December 10, 2015|
 |[Microsoft OEM Activation Reference](https://www.congatec.com/fileadmin/user_upload/Documents/Application_Notes/AN21_Add_OEM_ACPI_SLIC_Table.pdf)|OA3.0|
 |[Microsoft UEFI firmware requirements](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-uefi)|10/05/2017|
@@ -68,31 +65,47 @@
 |[Microsoft ACPI system description tables](https://docs.microsoft.com/en-us/windows-hardware/drivers/bringup/acpi-system-description-tables)|04/20/2017|
 |[Microsoft Simple Boot Flag Specification](https://forums.macrumors.com/attachments/sbf21-doc.477720/)|2.1|
 |[Microsoft WHEA ACPI Table Specification](http://msdn.microsoft.com/windows/hardware/gg463511)|1.0|
-|[Microsoft PE/COFF Specification](http://www.microsoft.com/whdc/system/platform/firmware/PECOFF.mspx)|8.0|
 |[Multiprocessor Specification](https://pdos.csail.mit.edu/6.828/2011/readings/ia32/MPspec.pdf)|1.4|
 |[PMM Specification](https://wenku.baidu.com/view/7345add049649b6648d747c5.html)|1.01|
 |[Plug and Play BIOS Specification](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/protocol/pnp/PNPBIOS.rtf)|1.0A|
 |[PXE Specification](http://www.pix.net/software/pxeboot/archive/pxespec.pdf)|2.1|
 |[Smart Battery Data Specification](http://sbs-forum.org/specs/sbdat110.pdf)|1.10|
 |[SMASH Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0217_2.1.0.pdf)|2.1.0|
-|[SMBIOS Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.2.0.pdf)|3.2.0|
-|[TCG Server Specification](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG_Generic_Server_Specification_v1_0_rev0_8.pdf)|1.0|
-|[TCG Physical Presence Interface Specification](https://trustedcomputinggroup.org/wp-content/uploads/Physical-Presence-Interface_1-30_0-52.pdf)|1.30|
-|[TCG ACPI Specification](https://trustedcomputinggroup.org/wp-content/uploads/TCG_ACPIGeneralSpecification_v1.20_r8.pdf)|1.2|
-|[TCG EFI Protocol Specification](https://trustedcomputinggroup.org/wp-content/uploads/EFI-Protocol-Specification-rev13-160330final.pdf)|Family “2.0”, Level 00, Revision 00.13|
-|[TCG PC Client Specific Platform Firmware Profile Specification](https://trustedcomputinggroup.org/wp-content/uploads/PC-ClientSpecific_Platform_Profile_for_TPM_2p0_Systems_v51.pdf)|Family “2.0”, Level 00 Revision 1.03 Version 51|
-|[TCG PC Client Platform TPM Profile (PTP) Specification](https://trustedcomputinggroup.org/wp-content/uploads/PC-Client-Specific-Platform-TPM-Profile-for-TPM-2-0-v1-03-22-170516_final.pdf)|Family 2.0, Revision 1.3 Version 22|
-|[TCG PC Client Protection Profile for TPM 2.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PP_PC_client_specific_TPM_SecV2_v10.pdf)|Family 2.0, Level 0, Version 1.0, Revision 1.16|
-|[TCG D-RTM Architecture Specification](https://trustedcomputinggroup.org/wp-content/uploads/TCG_D-RTM_Architecture_v1-0_Published_06172013.pdf)|1.0|
-|[TCG PC Client Implementation Spec](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PCClientImplementation_1-21_1_00.pdf)|1.21|
-|[TCG PC Client TPM Interface Specification](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PCClientTPMInterfaceSpecification_TIS__1-3_27_03212013.pdf)|1.3|
-|[TCG Platform Reset Attack Mitigation Specification](https://trustedcomputinggroup.org/wp-content/uploads/Platform-Reset-Attack-Mitigation-Specification.pdf)|1.0|
-|[TCG TPM I2C Interface Specification](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG-TPM-I2C-Interface-Specification-v1.00.pdf)|Family 2.0, Level 00, Revision 1.0|
-|[TCG FIPS 140-2 Guidance for TPM 2.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_FIPS_140_Guidance_for_TPM2_0_v1r1_20170202.pdf)|TPM 2.0 Version 1.0, Revision 1.0|
-|[Open Virtualization Format Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_2.1.1.pdf)|2.1.1|
-|DASH Specification|[click](https://www.dmtf.org/standards/dash)|
-|[IPMI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/ipmi-second-gen-interface-spec-v2-rev1-1.pdf)|v2.0 rev. 1.1|
-|Redfish Specification|[click](https://www.dmtf.org/standards/redfish)|
+|[SMBIOS Specification](https://www.dmtf.org/standards/smbios)|[3.2.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.2.0.pdf)<br>[3.4](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.4.0.pdf)|
+|[TCG](https://trustedcomputinggroup.org/)|[TCG Server Specification 1.0](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG_Generic_Server_Specification_v1_0_rev0_8.pdf)<br>[TCG Physical Presence Interface Specification 1.30](https://trustedcomputinggroup.org/wp-content/uploads/Physical-Presence-Interface_1-30_0-52.pdf)<br>[TCG ACPI Specification 1.2](https://trustedcomputinggroup.org/wp-content/uploads/TCG_ACPIGeneralSpecification_v1.20_r8.pdf)<br>[TCG EFI Protocol Specification Family “2.0”, Level 00, Revision 00.13](https://trustedcomputinggroup.org/wp-content/uploads/EFI-Protocol-Specification-rev13-160330final.pdf)<br>[TCG PC Client Specific Platform Firmware Profile Specification Family “2.0”, Level 00 Revision 1.03 Version 51](https://trustedcomputinggroup.org/wp-content/uploads/PC-ClientSpecific_Platform_Profile_for_TPM_2p0_Systems_v51.pdf)<br>[TCG PC Client Platform TPM Profile (PTP) Specification Family 2.0, Revision 1.3 Version 22](https://trustedcomputinggroup.org/wp-content/uploads/PC-Client-Specific-Platform-TPM-Profile-for-TPM-2-0-v1-03-22-170516_final.pdf)<br>[TCG PC Client Protection Profile for TPM 2.0 Family 2.0, Level 0, Version 1.0, Revision 1.16](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PP_PC_client_specific_TPM_SecV2_v10.pdf)<br>[TCG D-RTM Architecture Specification 1.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_D-RTM_Architecture_v1-0_Published_06172013.pdf)<br>[TCG PC Client Implementation Spec 1.21](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PCClientImplementation_1-21_1_00.pdf)<br>[TCG PC Client TPM Interface Specification 1.3](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PCClientTPMInterfaceSpecification_TIS__1-3_27_03212013.pdf)<br>[TCG Platform Reset Attack Mitigation Specification 1.0](https://trustedcomputinggroup.org/wp-content/uploads/Platform-Reset-Attack-Mitigation-Specification.pdf)<br>[TCG TPM I2C Interface Specification Family 2.0, Level 00, Revision 1.0](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG-TPM-I2C-Interface-Specification-v1.00.pdf)<br>[TCG FIPS 140-2 Guidance for TPM 2.0 Version 1.0, Revision 1.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_FIPS_140_Guidance_for_TPM2_0_v1r1_20170202.pdf)|
+|[Open Virtualization Format (DMTF)](https://www.dmtf.org/standards/ovf)|[Profile to Enable Automated Deployment of OVF Packages 1.0.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP0265_1.0.0.pdf)<br>[Open Virtualization Format Specification 2.1.1](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_2.1.1.pdf)<br>[Open Virtualization Format White Paper 2.0.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP2017_2.0.0.pdf)|
+|[NIST](https://www.nist.gov/)|Various firmware and system related specs|
+|[JEDEC Specifications](https://www.jedec.org/standards-documents)|Depends on device type|
+
+## Remote Management Specifications and Tools
+|Name and Links |   Spec Versions   |
+|:-----------------|:-------------------|
+|[DASH Specification (DMTF)](https://www.dmtf.org/standards/dash)|[	DASH Implementation Requirements 1.2.1](https://www.dmtf.org/sites/default/files/standards/documents/DSP0232_1.2.1.pdf)<br>[WS-Management CIM Binding Specification 1.2.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP0227_1.2.0.pdf)<br>[Systems Management Architecture for Mobile and Desktop Hardware White Paper 1.1.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP2014_1.1.0.pdf)<br>[DASH Delivers Multi-Vendor Management for Desktop and Mobile Systems 1.0.0](https://www.dmtf.org/sites/default/files/standards/documents/DASHTechNote.pdf)|
+|[IPMI Specification](https://www.intel.com.tw/content/www/tw/zh/servers/ipmi/ipmi-technical-resources.html?wapkw=ipmi)|[IPMI v2.0 rev. 1.1](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/ipmi-second-gen-interface-spec-v2-rev1-1.pdf)|
+|[IPMI Tools](https://www.intel.com.tw/content/www/tw/zh/servers/ipmi/ipmi-technical-resources.html?wapkw=ipmi)|[IPMI, V2.0, Conformance Test Suite (ICTS) Prototype, V6.02](https://www.intel.com.tw/content/dam/www/public/us/en/documents/product-briefs/icts_v602.zip)<br>[IPMI, V2.0, V1.5, and V1.0, Reference Drivers](https://www.intel.com.tw/content/dam/www/public/us/en/documents/product-briefs/drvjan13_2005.zip)<br>[IPMI, V2.0, Command Test Tool](https://www.intel.com.tw/content/dam/www/public/us/en/documents/product-briefs/ipmitool_01-13-05.zip)|
+|[Redfish Specification (DMTF)](https://www.dmtf.org/standards/redfish)|[Redfish Specification 1.11.1](https://www.dmtf.org/sites/default/files/standards/documents/DSP0266_1.11.1.pdf)<br>[Redfish Host Interface Specification 1.3.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP0270_1.3.0.pdf)<br>[Redfish Interoperability Profiles Specification 1.3.0](https://www.dmtf.org/sites/default/files/standards/documents/DSP0272_1.3.0.pdf)<br>[Redfish Schema Supplement 2020.3](https://www.dmtf.org/sites/default/files/standards/documents/DSP0268_2020.3.pdf)|
+|[Redfish Tools (DMTF Github)](https://github.com/DMTF)|[Redfish Test Framework](https://github.com/DMTF/Redfish-Test-Framework)|
+|[Swordfish Specification (SNIA)](https://www.snia.org/forums/smi/swordfish)|[click](https://www.snia.org/tech_activities/publicreview#swordfish)|
+
+## FileSystem/Disc Format Specifications
+|Name and Links |   Spec Versions   |
+|:-----------------|:-------------------|
+|Microsoft FAT32|[1.03](https://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/fatgen103.doc)|
+|Microsoft exFAT|[Latest web version](https://docs.microsoft.com/en-us/windows/win32/fileio/exfat-specification)<br>[Latest pdf](https://docs.microsoft.com/en-us/windows/win32/opbuildpdf/fileio/toc.pdf?branch=live)|
+|NTFS|[wiki](https://en.wikipedia.org/wiki/NTFS)|
+|El Torito Boot Specification|[1.0](https://pdos.csail.mit.edu/6.828/2014/readings/boot-cdrom.pdf)|
+|[UDF Specification](http://www.osta.org/specs/)|[2.60](http://www.osta.org/specs/pdf/udf260.pdf)|
+|ISO 9660|[1998(en)](https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:en)<br>[1988/Amd.1:2013(en)](https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:amd:1:v1:en)|
+|Joliet Filesystem Specification|[Extensions for Unicode Version 1](http://pismotec.com/cfs/jolspec.html)|
+|ext4|[web](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)|
+|HFS Plus|[web](https://developer.apple.com/library/archive/technotes/tn/tn1150.html#//apple_ref/doc/uid/DTS10002989)|
+
+## File Format Specifications
+|Name and Links |   Spec Versions   |
+|:-----------------|:-------------------|
+|[Microsoft PE/COFF Specification](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)|[8.0](http://www.microsoft.com/whdc/system/platform/firmware/PECOFF.mspx)<br>[Latest web](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)<br>[Latest pdf](https://docs.microsoft.com/en-us/windows/win32/opbuildpdf/debug/toc.pdf?branch=live)|
+|ELF|[1.2](https://refspecs.linuxfoundation.org/elf/elf.pdf)<br>[1.1](https://refspecs.linuxfoundation.org/elf/TIS1.1.pdf)|
+
 
 ## Compilation of UEFI/BIOS Related Tools
 |Name     |   Latest Version   |OS| Description        |
