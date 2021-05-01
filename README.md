@@ -19,7 +19,7 @@
 |[HDAudio Specification](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf)|[1.0a](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf)|
 |[HDMI Specification](https://www.hdmi.org/spec/hdmi2_1)|[2.1](https://www.hdmi.org/spec/hdmi2_1)|
 |[I2C Bus Specification](https://www.nxp.com/docs/en/user-guide/UM10204.pdf)|[6.0](https://www.nxp.com/docs/en/user-guide/UM10204.pdf)|
-|[I3C Specification](https://resources.mipi.org/mipi-i3c-v1-download)|[MIPI I3C Basic v1.0](https://resources.mipi.org/mipi-i3c-v1-download)<br>[MIPI I3C v1.1](https://www.mipi.org/specifications/i3c-sensor-specification)|
+|[I3C Specification](https://resources.mipi.org/mipi-i3c-v1-download)|[MIPI I3C Basic v1.0](https://resources.mipi.org/mipi-i3c-v1-download)<br>[MIPI I3C v1.1](https://www.mipi.org/specifications/i3c-sensor-specification)<br>[NXP I3C Training Video](https://www.nxp.com/design/training/improved-inter-integrated-circuit-i3c-standard:TIP-I3C-STANDARD)|
 |[I2S Specification](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf)|[June 5, 1996](https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf)|
 |[LPC Specification](https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf)|[1.1](https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf)|
 |MIPI Specification|[click](https://www.mipi.org/current-specifications)|
