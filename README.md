@@ -1,4 +1,13 @@
-# One-Stop Shop for UEFI/BIOS Specifications/Tools Maintained by [UEFI.Tech Community](http://www.uefi.tech) ![UEFI.Tech Icon](https://github.com/uefitech/resources/blob/master/uefi.png) and TonyLo
+
+
+# !!!  This list is not maintained anymore, visit below page to get latest update.  !!!
+
+https://github.com/vangoghynot/FirmwareResources
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+One-Stop Shop for UEFI/BIOS Specifications/Tools Maintained by [UEFI.Tech Community](http://www.uefi.tech) ![UEFI.Tech Icon](https://github.com/uefitech/resources/blob/master/uefi.png) and TonyLo
 
 ## Compilation of UEFI/BIOS Related Specifications
 
