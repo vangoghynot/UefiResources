@@ -1,5 +1,7 @@
 PLe v0.9.1 (x64)
 
+![img](img/ple_1.png)
+
 HotKeys:<br>
 [F2] Menu<br>
 [F10] Exit<br>
@@ -18,3 +20,9 @@ Available Dumps:<br>
 - SMBIOS
 - Memory
 - UEFI
+
+![img](img/ple_pci_1.png)
+![img](img/ple_pci_2.png)
+![img](img/ple_acpi_1.png)
+![img](img/ple_acpi_2.png)
+
