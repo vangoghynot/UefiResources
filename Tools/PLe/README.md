@@ -1,5 +1,6 @@
 
 - [History](#history)
+  - [PLe v0.9.6 (x64/Aarch64)](#ple-v096-x64aarch64)
   - [PLe v0.9.5 (x64)](#ple-v095-x64)
   - [PLe v0.9.3 (x64)](#ple-v093-x64)
 - [HotKeys](#hotkeys)
@@ -7,7 +8,7 @@
   - [Memory:](#memory)
   - [UEFI Commander:](#uefi-commander)
 
-![img](img/ple_v095.png)
+![img](img/ple.png)
 
 ![img](img/ple_uefi_cmd.png)
 
@@ -26,6 +27,13 @@ Available Dumps:<br>
 
 
 # History
+
+## PLe v0.9.6 (x64/Aarch64)
+
+Add Aarch64 version. ple_a64.efi<br>
+
+Know Issue:<br>
+- UEFI variable dump in Aarch64 may cause exception<br>
 
 ## PLe v0.9.5 (x64)
 
