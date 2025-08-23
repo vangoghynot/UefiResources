@@ -1,5 +1,6 @@
 
 - [History](#history)
+  - [PLe v0.9.7 (x64/Aarch64/RiscV)](#ple-v097-x64aarch64riscv)
   - [PLe v0.9.6 (x64/Aarch64)](#ple-v096-x64aarch64)
   - [PLe v0.9.5 (x64)](#ple-v095-x64)
   - [PLe v0.9.3 (x64)](#ple-v093-x64)
@@ -28,11 +29,16 @@ Available Dumps:<br>
 
 # History
 
+## PLe v0.9.7 (x64/Aarch64/RiscV)
+
+Add RiscV version. ple_riscv.efi<br>
+
+
 ## PLe v0.9.6 (x64/Aarch64)
 
 Add Aarch64 version. ple_a64.efi<br>
 
-Know Issue:<br>
+Known Issue:<br>
 - UEFI variable dump in Aarch64 may cause exception<br>
 
 ## PLe v0.9.5 (x64)

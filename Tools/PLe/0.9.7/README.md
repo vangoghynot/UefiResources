@@ -1,10 +1,6 @@
-PLe v0.9.6 (x64/Aarch64)
+PLe v0.9.7 (x64/Aarch64/RiscV)
 
-Add Aarch64 version. ple_a64.efi<br>
-
-Known Issue:<br>
-- UEFI variable dump in Aarch64 may cause exception<br>
-
+Add RiscV version. ple_riscv.efi<br>
 
 ![img](img/ple.png)
 
