@@ -1,6 +1,6 @@
 # ⚠️ This repository is deprecated. Please use the new repository below.
 
-(https://github.com/vangoghynot/tools/tree/master/Tools)
+(https://github.com/vangoghynot/tools)
 
 
 # Firmware Tools Maintained by TonyLo
